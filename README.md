@@ -41,6 +41,9 @@ You can also download an R markdown notebook to run in R Studio: <a href="https:
 
 You can run the walkthrough R notebook in Google Colab with a single click: <a href="https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [View the PDF documentation of the R package on CRAN](https://cran.r-project.org/web/packages/harmonydata/harmonydata.pdf)
 
+# Looking for examples?
+
+Check out our examples repository at [https://github.com/harmonydata/harmony_examples](https://github.com/harmonydata/harmony_examples)
 
 
 <!-- badges: end -->
@@ -263,7 +266,7 @@ twine upload dist/*
 
 ## ‎😃💁 Who worked on Harmony?
 
-Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
+Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony has been funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize) and by [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/).
 
 The core team at Harmony is made up of:
 
@@ -286,8 +289,7 @@ You can cite our validation paper:
 
 A BibTeX entry for LaTeX users is
 
-{{< rawhtml >}}
-<pre>
+```
 @article{mcelroy2024using,
   title={Using natural language processing to facilitate the harmonisation of mental health questionnaires: a validation study using real-world data},
   author={McElroy, Eoin and Wood, Thomas and Bond, Raymond and Mulvenna, Maurice and Shevlin, Mark and Ploubidis, George B and Hoffmann, Mauricio Scopel and Moltrecht, Bettina},
@@ -298,6 +300,4 @@ A BibTeX entry for LaTeX users is
   year={2024},
   publisher={Springer}
 }
-</pre>
-{{< /rawhtml >}}
-
+```
